@@ -1,0 +1,100 @@
+Game begins
+ Difficulty: Hard
+ AI Algorithm: Mini-Max
+
+_ _ _ _ _ 
+_ _ _ _ _ 
+_ _ X _ _ 
+_ _ _ _ _ 
+_ _ _ _ _ 
+
+_ _ _ _ _
+_ _ _ _ _
+_ _ X _ _
+_ _ _ _ _
+_ _ _ _ O
+
+
+Time for AI to move: 7.7e-05 sec
+Nodes expanded: 168745
+_ _ _ _ _ 
+_ X _ _ _ 
+_ _ X _ _ 
+_ _ _ _ _ 
+_ _ _ _ O 
+
+_ _ _ _ O
+_ X _ _ _
+_ _ X _ _
+_ _ _ _ _
+_ _ _ _ O
+
+
+Time for AI to move: 2.5e-05 sec
+Nodes expanded: 59387
+_ _ _ _ O 
+_ X _ _ X 
+_ _ X _ _ 
+_ _ _ _ _ 
+_ _ _ _ O 
+
+_ _ _ _ O
+_ X _ _ X
+_ _ X _ _
+_ _ _ _ _
+O _ _ _ O
+
+
+Time for AI to move: 1.8e-05 sec
+Nodes expanded: 46706
+_ _ _ _ O 
+_ X _ _ X 
+X _ X _ _ 
+_ _ _ _ _ 
+O _ _ _ O 
+
+_ _ _ _ O
+_ X _ _ X
+X _ X _ O
+_ _ _ _ _
+O _ _ _ O
+
+
+Time for AI to move: 1.3e-05 sec
+Nodes expanded: 33768
+_ _ _ _ O 
+_ X X _ X 
+X _ X _ O 
+_ _ _ _ _ 
+O _ _ _ O 
+
+_ _ _ _ O
+_ X X _ X
+X _ X _ O
+_ _ _ _ _
+O _ O _ O
+
+
+Time for AI to move: 9e-06 sec
+Nodes expanded: 26455
+_ _ _ _ O 
+_ X X X X 
+X _ X _ O 
+_ _ _ _ _ 
+O _ O _ O 
+
+_ _ _ _ O
+_ X X X X
+X _ X _ O
+_ _ _ _ _
+O O O _ O
+
+Time for AI to move: 3e-06 sec
+Nodes expanded: 9053
+_ _ _ _ O 
+X X X X X 
+X _ X _ O 
+_ _ _ _ _ 
+O O O _ O 
+
+X Wins!

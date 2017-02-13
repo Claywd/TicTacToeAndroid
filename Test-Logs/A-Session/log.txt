@@ -1,0 +1,81 @@
+Game begins
+Difficulty: Hard
+AI Algorithm: A*
+
+O _ _ _ _ 
+_ _ _ _ _ 
+X _ X _ _ 
+_ _ _ _ _ 
+_ _ _ _ _ 
+Possible routes analyzed: 24 in 0.0000540000 seconds.
+
+O _ _ _ _ 
+_ _ _ _ _ 
+X X X _ _ 
+_ _ _ _ _ 
+_ _ _ _ O 
+Possible routes analyzed: 24 in 0.0000240000 seconds.
+
+O _ _ _ X 
+_ _ _ _ _ 
+X X X _ O 
+_ _ _ _ _ 
+_ _ _ _ O 
+Possible routes analyzed: 24 in 0.0000300000 seconds.
+
+O _ _ _ X 
+_ _ _ _ _ 
+X X X _ O 
+_ _ _ _ _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000260000 seconds.
+
+O X _ _ X 
+_ _ _ _ _ 
+X X X _ O 
+O _ _ _ _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000300000 seconds.
+
+O X _ _ X 
+_ X _ _ _ 
+X X X _ O 
+O _ O _ _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000270000 seconds.
+
+O X _ _ X 
+_ X _ _ _ 
+X X X _ O 
+O O O X _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000330000 seconds.
+
+O X _ X X 
+O X _ _ _ 
+X X X _ O 
+O O O X _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000300000 seconds.
+
+O X O X X 
+O X _ X _ 
+X X X _ O 
+O O O X _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000290000 seconds.
+
+O X O X X 
+O X O X _ 
+X X X X O 
+O O O X _ 
+O X _ _ O 
+Possible routes analyzed: 24 in 0.0000260000 seconds.
+
+O X O X X 
+O X O X O 
+X X X X O 
+O O O X _ 
+O X _ X O 
+Possible routes analyzed: 24 in 0.0000290000 seconds.
+
